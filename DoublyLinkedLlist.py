@@ -105,7 +105,3 @@ class DoublyLinkedList:
         prev = self.getAt(pos - 1)
 
         return self.popAfter(prev)
-
-
-def solution(x):
-    return 0
